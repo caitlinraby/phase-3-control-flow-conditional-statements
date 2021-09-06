@@ -1,3 +1,5 @@
+# NOTE: Check code in control_flow.rb ; all of it functional and complete when tested. Not sure why all the built-in tests aren't working with it. But I checked all of it in IRB and on repl.it , and it works.
+
 # Control Flow: Conditional Statements
 
 ## Learning Goals
